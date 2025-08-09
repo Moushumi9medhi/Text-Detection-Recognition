@@ -146,59 +146,6 @@ claude ai startttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
 
 <div align="center">
 
-![Text Detection Banner](https://img.shields.io/badge/Computer%20Vision-Text%20Detection-blue?style=for-the-badge&logo=opencv)
-
-banner startttttttttttttttttttttttttttttt 222222222222222222222
-![Text Detection Banner](https://img.shields.io/badge/🔍%20Text%20Detection-Computer%20Vision%20%7C%20Machine%20Learning-blue?style=for-the-badge&logo=opencv&logoColor=white)
-![Text Detection Banner](https://img.shields.io/badge/📊%20DIMG%20Project-Text%20Detection%20%26%20Recognition-success?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Text Detection Banner](https://img.shields.io/badge/⚡%20Advanced%20Text%20Detection-OpenCV%20%7C%20Python%20%7C%20MATLAB-orange?style=for-the-badge&logo=python&logoColor=white)
-![Text Detection Banner](https://img.shields.io/badge/Accuracy-88.64%25-brightgreen?style=for-the-badge&logo=chartdotjs)
-![Text Detection Banner](https://img.shields.io/badge/Status-Completed%20✓-success?style=for-the-badge)
-![Text Detection Banner](https://img.shields.io/badge/Institution-IIT%20Kharagpur-blue?style=for-the-badge&logo=academicgooglescholar)
-![Text Detection Banner](https://img.shields.io/badge/Duration-2015--2018-informational?style=for-the-badge&logo=calendar)
-![Text Detection Banner](https://img.shields.io/badge/Industry%20Transfer-Altair%20Engineering-purple?style=for-the-badge&logo=enterprise)
-Option 2: Academic Research Style
-
-Option 3: Tech-focused
-
-🏆 Status & Achievement Banners:
-
-
-
-
-
-🛠 Technology Stack Banners:
-https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=for-the-badge&logo=opencv
-https://img.shields.io/badge/Python-Machine%20Learning-blue?style=for-the-badge&logo=python
-https://img.shields.io/badge/MATLAB-Signal%20Processing-orange?style=for-the-badge&logo=mathworks
-https://img.shields.io/badge/C++-High%20Performance-green?style=for-the-badge&logo=cplusplus
-https://img.shields.io/badge/Deep%20Learning-CNN--SVM-purple?style=for-the-badge&logo=tensorflow
-🎯 Algorithm-specific Banners:
-https://img.shields.io/badge/MSER-Maximally%20Stable%20Regions-blue?style=flat-square&logo=target
-https://img.shields.io/badge/SWT-Stroke%20Width%20Transform-green?style=flat-square&logo=edit
-https://img.shields.io/badge/OCR-Optical%20Character%20Recognition-orange?style=flat-square&logo=textstudio
-https://img.shields.io/badge/CNN--SVM-Deep%20Learning%20Hybrid-red?style=flat-square&logo=brain
-📊 Combined Multi-line Banner:
-For a more comprehensive banner, you can combine multiple badges:
-markdown![Text Detection](https://img.shields.io/badge/🔍%20Text%20Detection-Computer%20Vision-blue?style=for-the-badge)
-![Accuracy](https://img.shields.io/badge/Accuracy-88.64%25-brightgreen?style=for-the-badge)
-![Institution](https://img.shields.io/badge/IIT-Kharagpur-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-🌟 Recommended Usage in Your README:
-I suggest updating the banner section in your README like this:
-markdown<div align="center">
-
-![Text Detection Banner](https://img.shields.io/badge/🔍%20Text%20Detection-Computer%20Vision%20%7C%20Machine%20Learning-blue?style=for-the-badge&logo=opencv&logoColor=white)
-
-![Accuracy](https://img.shields.io/badge/Accuracy-88.64%25-brightgreen?style=for-the-badge&logo=chartdotjs)
-![Status](https://img.shields.io/badge/Status-Completed%20✓-success?style=for-the-badge)
-![Institution](https://img.shields.io/badge/Institution-IIT%20Kharagpur-orange?style=for-the-badge&logo=academicgooglescholar)
-![Duration](https://img.shields.io/badge/Duration-2015--2018-informational?style=for-the-badge&logo=calendar)
-
-</div>
-These banners will automatically render as images when viewed on GitHub and perfectly match your project's professional and technical theme. The URLs are ready to use - just copy and paste
-banner endddddddddddddddddddddddddddddddddddd 2222222222222
-
 *Advanced text detection, matching, and recognition system for GUI application screen images*
 
 [🚀 Features](#-features) • [📊 Demo](#-demo) • [⚡ Quick Start](#-quick-start) • [📈 Results](#-results) • [📝 Documentation](#-documentation)
