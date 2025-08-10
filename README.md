@@ -23,7 +23,7 @@ This project presents a comprehensive solution for **text detection, text matchi
 ---
 
 ## 📑 Table of Contents
-- [🎯 Overview](#overview)
+- [🎯 Overview](#🎯overview)
 - [🤝 Industry Collaboration](#industry-collaboration)
 - [📋 Prerequisites](#prerequisites)
 - [🛠 Technologies Used](#technologies-used)
@@ -35,8 +35,8 @@ This project presents a comprehensive solution for **text detection, text matchi
     - [Morphological Transformations & Edge Proposals](#3️⃣-morphological-transformations--edge-proposals)
     - [Optical Character Recognition (OCR)](#4️⃣-optical-character-recognition-ocr)
   - [🤖 ML Modules](#ml-modules)
-    - [Traditional ML](#-traditional-ml)
-    - [Deep Learning Hybrid](#-deep-learning-hybrid)
+    - [Traditional ML](#traditional-ml)
+    - [Deep Learning Hybrid](#deep-learning-hybrid)
 - [🔍 Comparative State-of-the-Art Methods](#comparative-state-of-the-art-methods)
 - [👥 Contributors](#contributors)
 - [🤝 Contributing](#contributing)
