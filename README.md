@@ -7,7 +7,7 @@
 
 *Advanced text detection, matching, and recognition system for GUI application screen images*
 
-[🚀 Features](#-features) • [📊 Demo](#-demo) • [⚡ Quick Start](#-quick-start) • [📈 Results](#-results) • [📝 Documentation](#-documentation)
+[📝 Documentation](#-documentation)
 
 </div>
 
@@ -40,7 +40,7 @@ This project presents a comprehensive solution for **text detection, text matchi
 - [🔍 Comparative State-of-the-Art Methods](#-comparative-state-of-the-art-methods)
 - [👥 Contributors](#-contributors)
 - [🤝 Contributing](#-contributing)
-- [📧 Contact](#-contact)
+- [📬 Contact](#-contact)
 
 ---
 
@@ -182,7 +182,7 @@ We welcome contributions!
 
 ---
 
-## 📞 Contact
+## 📬 Contact
 
 <div align="center">
 
