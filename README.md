@@ -7,7 +7,7 @@
 
 *Advanced text detection, matching, and recognition system for GUI application screen images*
 
-[📝 Documentation](#-documentation)
+[📝 Documentation](Documentation.pdf)
 
 </div>
 
