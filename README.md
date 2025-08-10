@@ -37,7 +37,7 @@ This project presents a comprehensive solution for **text detection, text matchi
   - [🤖 ML Modules](#ml-modules)
     - [Traditional ML](#traditional-ml)
     - [Deep Learning Hybrid](#deep-learning-hybrid)
-- [🔍 Comparative State-of-the-Art Methods](#comparative-state-of-the-art-methods)
+- [🔍 Comparative State-of-the-Art Methods](#🔍comparative-state-of-the-art-methods)
 - [👥 Contributors](#contributors)
 - [🤝 Contributing](#contributing)
 - [📧 Contact](#contact)
