@@ -45,7 +45,7 @@ This project presents a comprehensive solution for **text detection, text matchi
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 - **Programming Languages**: Python, MATLAB, C++
 - **Libraries**:
   - OpenCV
