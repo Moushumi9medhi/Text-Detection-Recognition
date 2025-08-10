@@ -30,18 +30,17 @@ This project presents a comprehensive solution for **text detection, text matchi
 - [🔧 Core Algorithms Implemented](#core-algorithms-implemented)
 - [🧩 Methodology](#methodology)
   - [🖼️ Non-ML Modules](#non-ml-modules)
-    - [MSER (Maximally Stable Extremal Regions)](#mser-maximally-stable-extremal-regions)
-    - [SWT (Stroke Width Transform)](#swt-stroke-width-transform)
-    - [Morphological Transformations & Edge Proposals](#morphological-transformations--edge-proposals)
-    - [Optical Character Recognition (OCR)](#optical-character-recognition-ocr)
+    - [MSER (Maximally Stable Extremal Regions)](#1️⃣-mser-maximally-stable-extremal-regions)
+    - [SWT (Stroke Width Transform)](#2️⃣-swt-stroke-width-transform)
+    - [Morphological Transformations & Edge Proposals](#3️⃣-morphological-transformations--edge-proposals)
+    - [Optical Character Recognition (OCR)](#4️⃣-optical-character-recognition-ocr)
   - [🤖 ML Modules](#ml-modules)
-    - [Traditional ML](#traditional-ml)
-    - [Deep Learning Hybrid](#deep-learning-hybrid)
+    - [Traditional ML](#-traditional-ml)
+    - [Deep Learning Hybrid](#-deep-learning-hybrid)
 - [🔍 Comparative State-of-the-Art Methods](#comparative-state-of-the-art-methods)
 - [👥 Contributors](#contributors)
 - [🤝 Contributing](#contributing)
 - [📧 Contact](#contact)
-
 
 ---
 
