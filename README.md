@@ -23,24 +23,24 @@ This project presents a comprehensive solution for **text detection, text matchi
 ---
 
 ## 📑 Table of Contents
-- [🎯 Overview](#🎯overview)
-- [🤝 Industry Collaboration](#industry-collaboration)
-- [📋 Prerequisites](#prerequisites)
-- [🛠 Technologies Used](#technologies-used)
-- [🔧 Core Algorithms Implemented](#core-algorithms-implemented)
-- [🧩 Methodology](#methodology)
-  - [🖼️ Non-ML Modules](#non-ml-modules)
+- [🎯 Overview](#-overview)
+- [🤝 Industry Collaboration](#-industry-collaboration)
+- [📋 Prerequisites](#-prerequisites)
+- [🛠 Technologies Used](#-technologies-used)
+- [🔧 Core Algorithms Implemented](#-core-algorithms-implemented)
+- [🧩 Methodology](#-methodology)
+  - [🖼️ Non-ML Modules](#️-non-ml-modules)
     - [MSER (Maximally Stable Extremal Regions)](#1️⃣-mser-maximally-stable-extremal-regions)
     - [SWT (Stroke Width Transform)](#2️⃣-swt-stroke-width-transform)
     - [Morphological Transformations & Edge Proposals](#3️⃣-morphological-transformations--edge-proposals)
     - [Optical Character Recognition (OCR)](#4️⃣-optical-character-recognition-ocr)
-  - [🤖 ML Modules](#ml-modules)
-    - [Traditional ML](#traditional-ml)
-    - [Deep Learning Hybrid](#deep-learning-hybrid)
-- [🔍 Comparative State-of-the-Art Methods](#🔍comparative-state-of-the-art-methods)
-- [👥 Contributors](#contributors)
-- [🤝 Contributing](#contributing)
-- [📧 Contact](#contact)
+  - [🤖 ML Modules](#-ml-modules)
+    - [Traditional ML](#-traditional-ml)
+    - [Deep Learning Hybrid](#-deep-learning-hybrid)
+- [🔍 Comparative State-of-the-Art Methods](#-comparative-state-of-the-art-methods)
+- [👥 Contributors](#-contributors)
+- [🤝 Contributing](#-contributing)
+- [📧 Contact](#-contact)
 
 ---
 
