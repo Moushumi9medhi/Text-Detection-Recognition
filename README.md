@@ -42,6 +42,7 @@ This project presents a comprehensive solution for **text detection, text matchi
 - [🤝 Contributing](#contributing)
 - [📧 Contact](#contact)
 
+
 ---
 
 ## Technologies Used
