@@ -72,7 +72,7 @@ pip install opencv-python numpy matplotlib
 
 | Algorithm / Technique | Implementation | 
 |-----------------------|----------------|
-| **MSER** (Maximally Stable Extremal Regions) | OpenCV, MATLAB | 
+| **MSER** (Maximally Stable Extremal Regions) | OpenCV, MATLAB, Boost | 
 | **SWT** (Stroke Width Transform) | OpenCV + Boost, MATLAB + C++ MEX, Python + OpenCV| 
 | **Morphological Transformations** | OpenCV, Python | 
 | **Canny Edge Detection & Proposal Filtering** | OpenCV | 
