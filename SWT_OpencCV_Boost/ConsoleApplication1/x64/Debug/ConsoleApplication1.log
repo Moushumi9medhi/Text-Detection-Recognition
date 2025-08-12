@@ -1,0 +1,57 @@
+﻿Build started 30-Jul-16 7:10:04 PM.
+     1>Project "E:\iitkgp_project\text detection using SWT\#C++\#TEXTDETECTIONOpencvNBoost\ConsoleApplication1 - Copy\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"E:\iitkgp_project\text detection using SWT\#TEXTDETECTIONOpencvNBoost\ConsoleApplication1 - Copy\ConsoleApplication1" /I"D:\opencvextracted files2.4.10\opencv\build\include" /I"D:\opencvextracted files2.4.10\opencv\build\include\opencv" /I"D:\opencvextracted files2.4.10\opencv\build\include\opencv2" /I"E:\iitkgp_project\text detection using SWT\#C++\#TEXTDETECTIONOpencvNBoost\ConsoleApplication1 - Copy\ConsoleApplication1" /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt TextDetection.cpp
+         TextDetection.cpp
+     1>TextDetection.cpp(85): warning C4056: overflow in floating-point constant arithmetic
+     1>TextDetection.cpp(131): warning C4056: overflow in floating-point constant arithmetic
+     1>TextDetection.cpp(374): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>TextDetection.cpp(388): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>TextDetection.cpp(389): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>TextDetection.cpp(483): error C2039: 'adjacency_list' : is not a member of 'boost'
+     1>TextDetection.cpp(483): error C2143: syntax error : missing ';' before '<'
+     1>TextDetection.cpp(483): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>TextDetection.cpp(483): error C2039: 'vecS' : is not a member of 'boost'
+     1>TextDetection.cpp(483): error C2039: 'undirectedS' : is not a member of 'boost'
+     1>TextDetection.cpp(501): error C2065: 'Graph' : undeclared identifier
+     1>TextDetection.cpp(501): error C2146: syntax error : missing ';' before identifier 'g'
+     1>TextDetection.cpp(501): error C3861: 'g': identifier not found
+     1>TextDetection.cpp(512): error C2039: 'add_edge' : is not a member of 'boost'
+     1>TextDetection.cpp(512): error C2065: 'g' : undeclared identifier
+     1>TextDetection.cpp(512): error C3861: 'add_edge': identifier not found
+     1>TextDetection.cpp(518): error C2039: 'add_edge' : is not a member of 'boost'
+     1>TextDetection.cpp(518): error C2065: 'g' : undeclared identifier
+     1>TextDetection.cpp(518): error C3861: 'add_edge': identifier not found
+     1>TextDetection.cpp(522): error C2039: 'add_edge' : is not a member of 'boost'
+     1>TextDetection.cpp(522): error C2065: 'g' : undeclared identifier
+     1>TextDetection.cpp(522): error C3861: 'add_edge': identifier not found
+     1>TextDetection.cpp(526): error C2039: 'add_edge' : is not a member of 'boost'
+     1>TextDetection.cpp(526): error C2065: 'g' : undeclared identifier
+     1>TextDetection.cpp(526): error C3861: 'add_edge': identifier not found
+     1>TextDetection.cpp(536): error C2065: 'g' : undeclared identifier
+     1>TextDetection.cpp(536): error C3861: 'connected_components': identifier not found
+     1>TextDetection.cpp(560): error C2039: 'adjacency_list' : is not a member of 'boost'
+     1>TextDetection.cpp(560): error C2143: syntax error : missing ';' before '<'
+     1>TextDetection.cpp(560): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>TextDetection.cpp(560): error C2039: 'vecS' : is not a member of 'boost'
+     1>TextDetection.cpp(560): error C2039: 'undirectedS' : is not a member of 'boost'
+     1>TextDetection.cpp(578): error C2065: 'Graph' : undeclared identifier
+     1>TextDetection.cpp(578): error C2146: syntax error : missing ';' before identifier 'g'
+     1>TextDetection.cpp(578): error C3861: 'g': identifier not found
+     1>TextDetection.cpp(589): error C2039: 'add_edge' : is not a member of 'boost'
+     1>TextDetection.cpp(589): error C2065: 'g' : undeclared identifier
+     1>TextDetection.cpp(589): error C3861: 'add_edge': identifier not found
+     1>TextDetection.cpp(602): error C2065: 'g' : undeclared identifier
+     1>TextDetection.cpp(602): error C3861: 'connected_components': identifier not found
+     1>TextDetection.cpp(690): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>TextDetection.cpp(691): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>TextDetection.cpp(691): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>TextDetection.cpp(734): warning C4267: 'initializing' : conversion from 'size_t' to 'const int', possible loss of data
+     1>TextDetection.cpp(744): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>TextDetection.cpp(745): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>TextDetection.cpp(906): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>Done Building Project "E:\iitkgp_project\text detection using SWT\#C++\#TEXTDETECTIONOpencvNBoost\ConsoleApplication1 - Copy\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:36.62
