@@ -7,8 +7,6 @@
 
 *Advanced text detection, matching, and recognition system for GUI application screen images*
 
-[📝 Documentation](Documentation.pdf)
-
 </div>
 
 ---
@@ -51,6 +49,7 @@ This project presents a comprehensive solution for **text detection, text matchi
   - NumPy
   - Boost
   - LIBSVM
+  - Tesseract
 - **Tools**: MATLAB MEX, ASP .NET
 
 ---
